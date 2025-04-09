@@ -1,0 +1,2 @@
+# Diversao
+Códigos de brincadeira
